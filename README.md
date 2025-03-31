@@ -11,3 +11,12 @@
 - Create an Outlet in your Body Component
 - h/w Create your Footer Component
 - Create Login Page
+- Install axios
+- CORS - Install coers in backend => add middleware i backend with configuration : origin, credentials: true
+- Whenever you're making API call so pass axios => {withCredentials: true}
+- Install Redux Toolkit
+- Install react-redux + @reduxjs/toolkit => configureStore => Provider => createSlice => add reducer to store
+- Add redux devtools in chrome
+- Login & seee if your data is coming properly in the store
+- NavBar should update as soon as user logs in
+- Refactor our code to add constants file + create a components folder
